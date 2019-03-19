@@ -1,0 +1,8 @@
+针对核光滑的原理 在R上实现 素材来自《the elements of statistical learning》
+
+文件说明：
+【kernel01.R】： 书中图6.1 比较Nearest-Neighbor Kernel和Epanechnikov Kernel
+【kernel02.R】： Epanechnikov Kernel
+【kernel03.R】： 书中图6.2 比较Epanechnikov Kernel， Tri-cube Kernel 和 Gaussian Kernel
+【kernel04.R】： 书中图6.3 比较N-W核和Local Linear Regression在边界处拟合效果的不同(N-W的两边会‘翘’起来，)
+【kernel05.R】： 书中图6.4 比较Local Linaer Regression在内部和边界拟合的效果
